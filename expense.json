@@ -1,0 +1,12 @@
+[
+    {
+        "name": "bus",
+        "amount": 200.0,
+        "category": "travel"
+    },
+    {
+        "name": "idil-sambar",
+        "amount": 50.0,
+        "category": "snacks"
+    }
+]
